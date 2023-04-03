@@ -497,7 +497,7 @@ body {
   flex-wrap: wrap;
   align-items: flex-end;
   justify-content: space-between;
-  padding-top: 56px;
+  padding-top: 60px;
 }
 
 .header__list {
@@ -534,11 +534,11 @@ body {
   min-height: 100vh;
   background: url(../img/intro-background.jpg) no-repeat center;
   background-size: cover;
-  padding-top: 263px;
+  padding-top: 265px;
 }
 
 .intro__title {
-  max-width: 619px;
+  max-width: 620px;
   font-weight: 500;
   font-size: 50px;
   line-height: 60px;
@@ -547,11 +547,11 @@ body {
 }
 
 .intro__subtitle {
-  max-width: 546px;
+  max-width: 550px;
   color: white;
   font-size: 16px;
   line-height: 24px;
-  margin-bottom: 59px;
+  margin-bottom: 60px;
 }
 
 .search__form__info {
@@ -560,13 +560,13 @@ body {
 }
 
 .search__form__field {
-  width: 297px;
+  width: 300px;
   background: transparent url(../svg/circle-ico.svg) no-repeat left 6px;
   background-size: 20px;
   border: 0;
   border-bottom: 2px solid #bfc0c5;
   margin-right: 60px;
-  padding-left: 43px;
+  padding-left: 45px;
   padding-bottom: 22px;
   font-weight: 500;
   font-size: 18px;
@@ -580,7 +580,7 @@ body {
 }
 
 .search__form__submit {
-  padding: 15px 39px;
+  padding: 15px 40px;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 24px;
@@ -600,7 +600,7 @@ body {
 /* Benefits styles start */
 
 .benefits__wrap {
-  max-width: 1262px;
+  max-width: 1265px;
   background-color: white;
   margin: 0 auto;
   box-shadow: 0px 2px 20px rgba(21, 24, 36, 0.15993);
@@ -610,7 +610,7 @@ body {
   font-weight: 500;
   font-size: 35px;
   line-height: 42px;
-  padding: 93px 100px 88px 100px;
+  padding: 95px 100px 90px 100px;
 }
 
 .benefits__cards {
