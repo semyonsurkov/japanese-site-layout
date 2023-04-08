@@ -910,7 +910,7 @@ img {
     line-height: 24px;
     color: #fff;
     padding-right: 20px;
-    background: url(../img/svg/heart-ico.svg) no-repeat right;
+    background: url(../svg/heart-ico.svg) no-repeat right;
     margin-right: 14px;
 }
 
@@ -920,7 +920,7 @@ img {
     line-height: 24px;
     color: #fff;
     padding-right: 23px;
-    background: url(../img/svg/comment-ico.svg) no-repeat right;
+    background: url(../svg/comment-ico.svg) no-repeat right;
 }
 
 .top__card-desc{
