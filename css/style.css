@@ -559,11 +559,12 @@ img {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: black;
+    background-color: #0e1d28;
     z-index: 6;
     padding: 75px;
     transform: translateX(100%);
     transition: 0.2s all linear;
+    opacity: 0.95;
   }
   .header__nav_active {
     transform: translateX(0);
