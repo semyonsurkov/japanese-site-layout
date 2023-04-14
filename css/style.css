@@ -777,13 +777,13 @@ img {
 
 .search__form__field {
   width: 300px;
-  background: transparent url(../svg/circle-ico.svg) no-repeat left 2px;
+  background: transparent url(../img/svg/circle-ico.svg) no-repeat left 2px;
   background-size: 20px;
   border: 0;
   border-bottom: 2px solid #bfc0c5;
   margin-right: 60px;
   padding-left: 45px;
-  padding-bottom: 22px;
+  padding-bottom: 26px;
   font-weight: 500;
   font-size: 18px;
   color: white;
@@ -1130,7 +1130,6 @@ img {
   bottom: 25px;
   left: 25px;
   z-index: 3;
-  
 }
 
 .places__card__size__lg {
@@ -1418,7 +1417,7 @@ img {
   line-height: 24px;
   color: #fff;
   padding-right: 20px;
-  background: url(../svg/heart-ico.svg) no-repeat right;
+  background: url(../img/svg/heart-ico.svg) no-repeat right;
   margin-right: 14px;
 }
 
@@ -1428,7 +1427,7 @@ img {
   line-height: 24px;
   color: #fff;
   padding-right: 23px;
-  background: url(../svg/comment-ico.svg) no-repeat right;
+  background: url(../img/svg/comment-ico.svg) no-repeat right;
 }
 
 .top__card-desc {
